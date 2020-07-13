@@ -1,6 +1,6 @@
 # Erick Lucio / @ericklucio17
 
-## Hola y bienvenido 👋
+Hola y bienvenido 👋
 
 ---
 
