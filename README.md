@@ -1,10 +1,10 @@
-# Erick Lucio / @ericklucio17
+# Erick Lucio / @ericklucio17 
 
 Hola y bienvenido 👋
 
 ---
 
-### Comencemos hablando sobre mi 💬 
+### Comencemos hablando sobre mí 💬 
 
 Mi nombre es Erick Adrián, actualmente tengo 21 años y soy originario de Monterrey, Nuevo León, México. Desde pequeño me empezó a intrigar el tema de las tecnologías 
 y desde entonces me dedico a las TI como carrera profesional y autodidacta.
