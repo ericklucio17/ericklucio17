@@ -9,8 +9,6 @@ Hola y bienvenido 👋
 Mi nombre es Erick Adrián, actualmente tengo 21 años y soy originario de Monterrey, Nuevo León, México. Desde pequeño me empezó a intrigar el tema de las tecnologías 
 y desde entonces me dedico a las TI como carrera profesional y autodidacta.
 
-Me considero un programador junior, pero siempre con ganas de seguir aprendiendo y superando nuevos retos y compartiendo este mismo conocimiento con toda la comunidad.
-
 Me dedico al desarrollo, consultoría y enseñanza de tecnologías para todo el mundo. 🤘
 
 ### Contáctame 📫
